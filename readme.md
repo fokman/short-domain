@@ -32,7 +32,7 @@
 
 ### 架构设计
 
-![image-20211007095700430](/Users/kunliu/project/my/short-domain/readme.assets/image-20211007095700430.png)
+![image-20211007095700430](/readme.assets/image-20211007095700430.png)
 
 
 
