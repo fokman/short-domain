@@ -40,22 +40,22 @@
 
 http://localhost:8080/swagger-ui.html#/
 
-![image-20211007164104171](/Users/kunliu/project/my/short-domain/readme.assets/image-20211007164104171.png)
+![image-20211007164104171](/readme.assets/image-20211007164104171.png)
 
 ### 执行结果
 
-![image-20211007164011891](/Users/kunliu/project/my/short-domain/readme.assets/image-20211007164011891.png)
+![image-20211007164011891](/readme.assets/image-20211007164011891.png)
 
-![image-20211007140538538](/Users/kunliu/project/my/short-domain/readme.assets/image-20211007140538538.png
+![image-20211007140538538](/readme.assets/image-20211007140538538.png
 
-![image-20211007140635237](/Users/kunliu/project/my/short-domain/readme.assets/image-20211007140635237.png)
+![image-20211007140635237](/readme.assets/image-20211007140635237.png)
 
 ### jacoco测试结果
 
-![image-20211007163737472](/Users/kunliu/project/my/short-domain/readme.assets/image-20211007163737472.png) 
+![image-20211007163737472](/readme.assets/image-20211007163737472.png) 
 
 ### 性能测试
 
-![image-20211007171035975](/Users/kunliu/project/my/short-domain/readme.assets/image-20211007171035975.png)
+![image-20211007171035975](/readme.assets/image-20211007171035975.png)
 
 测试环境是运行在本地，如果要支持分布式情况会有所差异
